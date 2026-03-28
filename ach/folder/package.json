@@ -1,0 +1,49 @@
+{
+  "name": "crwdns7635:0crwdne7635:0",
+  "private": "crwdns7637:0crwdne7637:0",
+  "version": "crwdns7639:0crwdne7639:0",
+  "type": "crwdns7641:0crwdne7641:0",
+  "scripts": {
+    "dev": "crwdns7643:0crwdne7643:0",
+    "build": "crwdns7645:0crwdne7645:0",
+    "lint": "crwdns7647:0crwdne7647:0",
+    "preview": "crwdns7649:0crwdne7649:0"
+  },
+  "dependencies": {
+    "@ffmpeg/core": "crwdns7651:0crwdne7651:0",
+    "@ffmpeg/ffmpeg": "crwdns7653:0crwdne7653:0",
+    "@radix-ui/react-slot": "crwdns7655:0crwdne7655:0",
+    "@tailwindcss/vite": "crwdns7657:0crwdne7657:0",
+    "@tsparticles/all": "crwdns7659:0crwdne7659:0",
+    "@tsparticles/react": "crwdns7661:0crwdne7661:0",
+    "class-variance-authority": "crwdns7663:0crwdne7663:0",
+    "clsx": "crwdns7665:0crwdne7665:0",
+    "dotenv": "crwdns7667:0crwdne7667:0",
+    "lucide-react": "crwdns7669:0crwdne7669:0",
+    "openai": "crwdns7671:0crwdne7671:0",
+    "react": "crwdns7673:0crwdne7673:0",
+    "react-dom": "crwdns7675:0crwdne7675:0",
+    "react-router": "crwdns7677:0crwdne7677:0",
+    "react-router-dom": "crwdns7679:0crwdne7679:0",
+    "tailwind-merge": "crwdns7681:0crwdne7681:0",
+    "tailwindcss": "crwdns7683:0crwdne7683:0",
+    "three": "crwdns7685:0crwdne7685:0",
+    "tw-animate-css": "crwdns7687:0crwdne7687:0",
+    "vanta": "crwdns7689:0crwdne7689:0"
+  },
+  "devDependencies": {
+    "@eslint/js": "crwdns7691:0crwdne7691:0",
+    "@types/node": "crwdns7693:0crwdne7693:0",
+    "@types/react": "crwdns7695:0crwdne7695:0",
+    "@types/react-dom": "crwdns7697:0crwdne7697:0",
+    "@types/three": "crwdns7699:0crwdne7699:0",
+    "@vitejs/plugin-react": "crwdns7701:0crwdne7701:0",
+    "eslint": "crwdns7703:0crwdne7703:0",
+    "eslint-plugin-react-hooks": "crwdns7705:0crwdne7705:0",
+    "eslint-plugin-react-refresh": "crwdns7707:0crwdne7707:0",
+    "globals": "crwdns7709:0crwdne7709:0",
+    "typescript": "crwdns7711:0crwdne7711:0",
+    "typescript-eslint": "crwdns7713:0crwdne7713:0",
+    "vite": "crwdns7715:0crwdne7715:0"
+  }
+}
