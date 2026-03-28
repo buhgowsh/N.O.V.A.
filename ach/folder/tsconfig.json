@@ -1,0 +1,19 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "crwdns10375:0crwdne10375:0"
+    },
+    {
+      "path": "crwdns10377:0crwdne10377:0"
+    }
+  ],
+  "compilerOptions": {
+    "baseUrl": "crwdns10379:0crwdne10379:0",
+    "paths": {
+      "@/*": [
+      "crwdns10381:0crwdne10381:0"
+      ]
+    }
+  }
+}
