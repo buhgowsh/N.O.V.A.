@@ -1,0 +1,21 @@
+{
+  "$schema": "crwdns799:0crwdne799:0",
+  "style": "crwdns801:0crwdne801:0",
+  "rsc": "crwdns803:0crwdne803:0",
+  "tsx": "crwdns805:0crwdne805:0",
+  "tailwind": {
+    "config": "crwdns807:0crwdne807:0",
+    "css": "crwdns809:0crwdne809:0",
+    "baseColor": "crwdns811:0crwdne811:0",
+    "cssVariables": "crwdns813:0crwdne813:0",
+    "prefix": "crwdns815:0crwdne815:0"
+  },
+  "aliases": {
+    "components": "crwdns817:0crwdne817:0",
+    "utils": "crwdns819:0crwdne819:0",
+    "ui": "crwdns821:0crwdne821:0",
+    "lib": "crwdns823:0crwdne823:0",
+    "hooks": "crwdns825:0crwdne825:0"
+  },
+  "iconLibrary": "crwdns827:0crwdne827:0"
+}
